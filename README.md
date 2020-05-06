@@ -18,8 +18,13 @@ Before running the R file, you may need to install the following programs in R o
   
 To run the program, you could open the R file and run it manually or simply type the command 'source("~/Capstone_Project/Data_Cleaning.R")', in the R or Rstudio terminal. 
 
-This may take a minute or two. Once it's complete, you will notice that there is a new file in your working directory named 'testing.xlsx'. This is perfect!!
-That file is needed for the graphing portion of this process.
+This may take a minute or two. 
+
+Once it's complete, you will notice that there is a new file in your working directory named 'testing.xlsx'. This is perfect!! That file is needed for the graphing portion of this process.
+
+*If by chance you get an error saying that the file 'testing.xlsx' doesn't exist, you can make a blank csv file in your working directory and re-run the program. If it ran succesfully when you check back the csv shoud be filled. 
+
+
 
 Before running the python file, you while need to install the following programs if they are not already installed on your computer:
 
